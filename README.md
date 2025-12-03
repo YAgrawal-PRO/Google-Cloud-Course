@@ -6,4 +6,4 @@ Complete hands on course on Google Cloud Platform with projects, to let you gain
 
 | Class | Link |
 | --- | --- |
-| The "Don't Go Broke" Setup & First Computer | [Link](./tree/main/Class%201) |
+| The "Don't Go Broke" Setup & First Computer | [Link](./Class 1/) |
